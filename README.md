@@ -16,5 +16,14 @@ Course :
   
   - [x]  Terdapat halaman about (Terpenuhi).
 
+## Contributing
+
+Jika Anda ingin berkontribusi, silakan fork repositori ini dan lakukan perubahan sesuai keinginan. 
+Pull requests disambut dengan hangat.
+
 ### Note :
-Project ini menggunakan bahasa Kotlin. **Perlu diingat bahwa repository ini dapat digunakan sebagai bahan referensi sehingga diharapkan tidak asal copy paste code**. Salam sukses dan semoga bermanfaat.
+
+Project ini menggunakan bahasa Kotlin. 
+**Perlu diingat bahwa repository ini dapat digunakan sebagai bahan referensi sehingga diharapkan tidak asal copy paste code**.
+
+Salam sukses dan semoga bermanfaat.
