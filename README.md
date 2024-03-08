@@ -1,7 +1,7 @@
 # Submission Akhir Aplikasi Android Sederhana
 
 Course : 
-## Belajar Membuat Aplikasi Android untuk Pemula (https://www.dicoding.com/academies/51)
+## [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51)
 
 ### Submission Rating : 
 <img width="100" src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/submission-rating-badge/rating-default-4.png">
@@ -15,3 +15,6 @@ Course :
   - [x]  Menampilkan gambar dan informasi yang relevan pada halaman detail (Terpenuhi).
   
   - [x]  Terdapat halaman about (Terpenuhi).
+
+### Note :
+Project ini menggunakan bahasa Kotlin. **Perlu diingat bahwa repository ini dapat digunakan sebagai bahan referensi sehingga diharapkan tidak asal copy paste code**. Salam sukses dan semoga bermanfaat.
