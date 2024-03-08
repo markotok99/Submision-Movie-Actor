@@ -8,10 +8,10 @@ Course :
 
 ### Submission Chechlists : 
 
-  - [x]  Menampilkan gambar dan informasi dalam format List dengan jumlah minimal 10 item yang berbeda.
+  - [x]  Menampilkan gambar dan informasi dalam format List dengan jumlah minimal 10 item yang berbeda (Terpenuhi).
   
-  - [x]  Muncul halaman detail ketika salah satu item ditekan.
+  - [x]  Muncul halaman detail ketika salah satu item ditekan (Terpenuhi).
   
-  - [x]  Menampilkan gambar dan informasi yang relevan pada halaman detail.
+  - [x]  Menampilkan gambar dan informasi yang relevan pada halaman detail (Terpenuhi).
   
-  - [x]  Terdapat halaman about.
+  - [x]  Terdapat halaman about (Terpenuhi).
