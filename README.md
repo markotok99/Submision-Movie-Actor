@@ -1,11 +1,11 @@
-# Submission Movie Actor
+# Submission Akhir Aplikasi Android Sederhana
 
 Course : 
 ## Belajar Membuat Aplikasi Android untuk Pemula
 (https://www.dicoding.com/academies/51)
 
 ### Submission Rating : 
-  - <img width="100" src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/submission-rating-badge/rating-default-4.png">
+<img width="100" src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/submission-rating-badge/rating-default-4.png">
 
 ### Submission Chechlists : 
 
