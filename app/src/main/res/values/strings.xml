@@ -5,5 +5,11 @@
     <string name="name">Name</string>
     <string name="description">Description</string>
     <string name="logo_detail_image_person">Logo detail image person</string>
+    <string name="name_tv">Name :</string>
+    <string name="your_name">Your name</string>
+    <string name="email_tv">Email :</string>
+    <string name="email_example_com">email@example.com</string>
+    <string name="logo_image_about">Logo image about</string>
+    <string name="about_page">About Page</string>
 
 </resources>
