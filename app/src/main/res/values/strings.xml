@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Movie Actor</string>
+    <string name="welcome">Welcome</string>
+    <string name="logo_item_list_person">Logo item list person</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="logo_detail_image_person">Logo detail image person</string>
+
 </resources>
